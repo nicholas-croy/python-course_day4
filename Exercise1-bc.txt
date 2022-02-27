@@ -1,2 +1,6 @@
 Python:  4.060128450393677
 Scipy:  0.07391214370727539
+
+In naive python, the time is being consumed while looping over this function:
+r += (X[j, d] - X[i, d]) ** 2
+
