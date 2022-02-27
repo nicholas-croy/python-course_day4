@@ -1,5 +1,8 @@
 """
 A collection of simple math operations
+
+this is an example docstring that extends over multiple lines with lots of useful
+information for future users
 """
 
 def simple_add(a,b):
